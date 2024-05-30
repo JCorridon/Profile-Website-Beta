@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <nav className="nav justify-content-end bg-dark">
-      <a className="nav-link bg-secondary text-light" href="/home">
+      <a className="nav-link bg-secondary text-light" href="/">
         Home
       </a>
       <a className="nav-link bg-secondary text-light" href="/about">
