@@ -2,19 +2,28 @@ import Card from "../components/Card";
 
 function ProjectsPage() {
   const projects = [
-    { title: "project 1", summary: "summary 1", image: "" },
-    { title: "project 2", summary: "summary 2", image: "" },
-    { title: "project 3", summary: "summary 3", image: "" },
-    { title: "project 4", summary: "summary 4", image: "" },
-    { title: "project 4", summary: "summary 4", image: "" },
-    { title: "project 4", summary: "summary 4", image: "" },
-    { title: "project 4", summary: "summary 4", image: "" },
-    { title: "project 4", summary: "summary 4", image: "" },
-    { title: "project 4", summary: "summary 4", image: "" },
-    { title: "project 4", summary: "summary 4", image: "" },
-    { title: "project 4", summary: "summary 4", image: "" },
-    { title: "project 4", summary: "summary 4", image: "" },
-    { title: "project 4", summary: "summary 4", image: "" },
+    {
+      title: "Portfolio Website",
+      summary:
+        "This website was created in order to display all of my projects past present and future.",
+      image: "",
+    },
+    {
+      title: "2048 Browser Game (javascript)",
+      summary: "Recreation of the popular 2048 combining web game",
+      image: "/images/2048-logo.jpg",
+    },
+    {
+      title: "Fun Fact Generator Web App (python)",
+      summary:
+        "A python application that will generate fun facts through internet scraping",
+      image: "",
+    },
+    {
+      title: "Background Generator (javascript)",
+      summary: "A tool that can generate computer backgrounds from images",
+      image: "",
+    },
   ];
 
   return (
