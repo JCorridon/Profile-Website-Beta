@@ -14,7 +14,7 @@ function ProjectsPage() {
       title: "Sorting Algorithms (python)",
       summary:
         "Recreation of common sorting algorithms for time complexity analysis",
-      image: "",
+      image: "/images/time-complexity.jpg",
       link: "https://github.com/JCorridon/Sorting-Algorithms"
     },
     {
