@@ -5,3 +5,7 @@
 .btn{
     border-radius: 0;
 }
+
+.navbar-with-shadow {
+    box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.4); /* Adjust values as needed */
+}
